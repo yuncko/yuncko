@@ -1,24 +1,45 @@
 ## Hi there 👋
-I'm Anass, a software engineer 
 
-I mostly work on frontend stuff — React, TypeScript, Tailwind, and a bit of animation with Framer Motion.
+I'm Anass, a software engineer specializing in frontend development and AI-powered workflows.
 
-I also use Figma for UI design and Procreate when I want to sketch ideas.
+I build fast, scalable, and visually polished interfaces using React, TypeScript, and Tailwind CSS. My focus goes beyond functionality — I care deeply about crafting smooth, intuitive user experiences with strong attention to performance, design, and interaction.
 
-This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copy/paste templates.
+I actively leverage modern AI tools such as Claude Code and Codex to accelerate development, automate complex tasks, and improve code quality. I also design and write effective system prompts to guide AI behavior, making it more reliable, structured, and production-ready.
 
-Tools & Tech
--React, TypeScript, Tailwind
+Beyond development, I work with Figma to design clean UI systems and use Procreate to explore ideas visually before bringing them to life in code.
 
--C++, C, Pyton
+This profile is where I share real projects, experiments, and ongoing work — all built from scratch with a focus on clarity, simplicity, and real-world value.
 
--Figma, Apple Notes, Procreate
+---
 
-A Bit About Me
+**Core Stack**
+React • TypeScript • Tailwind CSS • Framer Motion
+
+**AI & Workflow**
+Claude Code • Codex • System Prompt Engineering • AI-assisted development
+
+**Other Technologies**
+C++ • C • Python
+
+**Design & Tools**
+Figma • Procreate • Apple Notes
+
+---
+
+**What I Care About**
+• Clean, maintainable, and scalable code
+• AI-enhanced development workflows
+• Simple, user-focused design
+• Performance and smooth interactions
+• Building products that solve real problems
+
+---
+
+**A Bit About Me**
 🐈 I have two cats
-🍵 Not a coffee or tea person
-🎴 Into anime — Demon Slayer is a favorite
-🧱 I like building things that are simple, useful, and easy to understand
+🎴 Anime fan — Demon Slayer is a favorite
+🧱 I enjoy building simple, practical, and intuitive solutions
+
 
 <!--
 **yuncko/yuncko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
