@@ -9,7 +9,9 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 
 Tools & Tech
 -React, TypeScript, Tailwind
+
 -C++, C, Pyton
+
 -Figma, Apple Notes, Procreate
 
 A Bit About Me
