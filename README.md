@@ -11,6 +11,7 @@ Tools & Tech
 React, TypeScript, Tailwind
 C++, C, Pyton
 Figma, Apple Notes, Procreate
+
 A Bit About Me
 🐈 I have two cats
 🍵 Not a coffee or tea person
