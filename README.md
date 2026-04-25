@@ -8,9 +8,9 @@ I also use Figma for UI design and Procreate when I want to sketch ideas.
 This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copy/paste templates.
 
 Tools & Tech
-React, TypeScript, Tailwind
-C++, C, Pyton
-Figma, Apple Notes, Procreate
+-React, TypeScript, Tailwind
+-C++, C, Pyton
+-Figma, Apple Notes, Procreate
 
 A Bit About Me
 🐈 I have two cats
