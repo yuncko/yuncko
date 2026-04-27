@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anass, a software engineer specializing in frontend development and AI-powered workflows.
+I'm Anass, a software engineer specializing in frontend development and AI-powered workflows..
 
 I build fast, scalable, and visually polished interfaces using React, TypeScript, and Tailwind CSS. My focus goes beyond functionality — I care deeply about crafting smooth, intuitive user experiences with strong attention to performance, design, and interaction.
 
